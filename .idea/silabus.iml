@@ -14,6 +14,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/UnilabPythonInternship/Chapter5_Flask_Templates/Projects/Nugo_svianadze/templates" />
+        <option value="$MODULE_DIR$/UnilabPythonInternship/Chapter6_Forms/Projects/Nugo_svianadze/templates" />
       </list>
     </option>
   </component>
